@@ -3,7 +3,7 @@
 This project contains tasks for learning to the basics of NodeJS.
 
 # Resources
-## Read or watch:
+#### Read or watch:
 
 + [Node JS getting started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
 + [Process API doc](https://node.readthedocs.io/en/latest/api/process/)
